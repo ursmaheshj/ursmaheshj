@@ -1,16 +1,5 @@
 <img src="./src/Simple Technology LinkedIn Banner.gif"  width=1000px height=500px/>
 
-
-
-<!-- - 🔭 I’m currently working on ... ghhh
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...hgfhd
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...  -->
-
 <h2 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mahesh</h2>
 <hr width="500px">
 <h3 align="center">A passionate developer from India</h3>
@@ -29,11 +18,13 @@
 
 **<h3 align="center">----- Connect with me -----</h3>**
 <p align="center">
-<a href="https://instagram.com/ursmaheshj" target="_blank"><img src="./src/logo-instagram.svg" width="35" height="35"></a>
-<a href="https://facebook.com/ursmaheshj" target="_blank"><img src="./src/logo-facebook.svg" width="35" height="35"></a>
-<a href="https://linkedin.com/ursmaheshj" target="_blank"><img src="./src/logo-linkedin.svg" width="35" height="35"></a>
-<a href="https://leetcode.com/ursmaheshj" target="_blank"><img src="./src/logo-leetcode.svg" width="35" height="35"></a>
-<a href="https://hackerrank.com/ursmaheshj" target="_blank"><img src="./src/logo-hackerrank.svg" width="35" height="35"></a>
+<a href="https://instagram.com/ursmaheshj" target="_blank"><img src="./src/logo-instagram.svg" width="40" height="40"></a>
+<a href="https://linkedin.com/ursmaheshj" target="_blank"><img src="./src/logo-linkedin.svg" width="40" height="40"></a>
+<a href="https://discord.com/ursmaheshj" target="_blank"><img src="./src/logo-discord.svg" width="40" height="40"></a>
+<a href="https://sololearn.com/ursmaheshj" target="_blank"><img src="./src/logo-sololearn.png" width="40" height="40"></a>
+<a href="https://hackerrank.com/ursmaheshj" target="_blank"><img src="./src/logo-hackerrank.png" width="40" height="40"></a>
+<a href="https://replit.com/ursmaheshj" target="_blank"><img src="./src/logo-replit.svg" width="35" height="35"></a>
+<a href="https://kaggle.com/ursmaheshj" target="_blank"><img src="./src/logo-kaggle.svg" width="40" height="40"></a>
 </p>
 
 
