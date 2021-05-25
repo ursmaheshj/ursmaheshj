@@ -1,20 +1,21 @@
-<img src="./Simple Technology LinkedIn Banner.gif"  width=1000px height=500px/>
+<img src="./src/Simple Technology LinkedIn Banner.gif"  width=1000px height=500px/>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ursmaheshj&label=Profile%20views&color=0e75b6&style=flat" alt="ursmaheshj" /> </p>
-- 🔭 I’m currently working on ... ghhh
+
+<!-- - 🔭 I’m currently working on ... ghhh
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...hgfhd
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ...  -->
 
-<h2 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mahesh</h2><hr width="500px">
+<h2 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mahesh</h2>
+<hr width="500px">
 <h3 align="center">A passionate developer from India</h3>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ursmaheshj&label=Profile%20views&color=0e75b6&style=flat" alt="ursmaheshj" /> </p>
 
 - 🌱 I’m currently learning **TensorFlow,ScikitLearn**
 
@@ -28,8 +29,13 @@
 
 **<h3 align="center">----- Connect with me -----</h3>**
 <p align="center">
-<a href="https://instagram.com/ursmaheshj" target="_blank"><img src="https://github.com/ionic-team/ionicons/blob/master/src/svg/logo-instagram.svg" width="40" height="40"></a>
+<a href="https://instagram.com/ursmaheshj" target="_blank"><img src="./src/logo-instagram.svg" width="35" height="35"></a>
+<a href="https://facebook.com/ursmaheshj" target="_blank"><img src="./src/logo-facebook.svg" width="35" height="35"></a>
+<a href="https://linkedin.com/ursmaheshj" target="_blank"><img src="./src/logo-linkedin.svg" width="35" height="35"></a>
+<a href="https://leetcode.com/ursmaheshj" target="_blank"><img src="./src/logo-leetcode.svg" width="35" height="35"></a>
+<a href="https://hackerrank.com/ursmaheshj" target="_blank"><img src="./src/logo-hackerrank.svg" width="35" height="35"></a>
 </p>
+
 
 **<h3 align="center">----- Languages -----</h3>**
 <p align="center"> 
@@ -57,7 +63,7 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
 </br>
-<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+<a href="https://unity.com/" target="_blank"> <img src="./src/logo-unity.png" alt="unity" width="40" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
