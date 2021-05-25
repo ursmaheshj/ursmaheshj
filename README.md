@@ -1,4 +1,4 @@
-### Hi there 👋
+![Header](./Simple Technology LinkedIn Banner.gif)
 
 - 🔭 I’m currently working on ... ghhh
 - 🌱 I’m currently learning ...
