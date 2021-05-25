@@ -1,19 +1,17 @@
-<img src="./src/Simple Technology LinkedIn Banner.gif"  width=1000px height=500px/>
-
-**<h2 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mahesh</h2>**
-<h3 align="center">A passionate developer from India</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ursmaheshj&label=Profile%20views&color=0e75b6&style=flat" alt="ursmaheshj" /> </p>
-
+**<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mahesh</h1>**
+<h3 align="center"><i>A passionate developer from India</i></h3>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=ursmaheshj&label=Profile%20views&color=0e75b6&style=flat" alt="ursmaheshj" /> 
+</p>
 <hr align="center">
 
-- 🌱 I’m currently learning **TensorFlow,ScikitLearn**
-
-- 👯 I’m looking to collaborate on **Python projects**
-
-- 💬 Ask me about **Python**
-
-- ⚡ Fun fact **funny**
-
+- 🔭 I’m currently working on :  **GUI and Automation using python**
+- 🌱 I’m currently learning : **PySpark, BigData**
+- 👯 I’m looking to collaborate on : **Python Development**
+- 🤔 I’m looking for help with : **API Creation**
+- ⚡ Fun fact :  **Common sense is not so common**
+<h4 align="center"><a href="https://github.com/ursmaheshj/Course-Completion-Certificates"><b>🏆 My achievements and Certificates 🥇</b></a> 
+</h4>
 <hr align="center" >
 
 **<h3 align="center">----- Connect with me -----</h3>**
