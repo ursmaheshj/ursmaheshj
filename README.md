@@ -19,11 +19,12 @@
 **<h3 align="center">----- Connect with me -----</h3>**
 <p align="center">
 <a href="https://www.instagram.com/ursmaheshj" target="_blank"><img src="./src/logo-instagram.svg" width="40" height="40"></a>
-<a href="https://www.linkedin.com/in/ursmaheshj" target="_blank"><img src="./src/logo-linkedin.svg" width="40" height="40"></a>
+<a href="https://linkedin.com/in/ursmaheshj" target="_blank"><img src="./src/logo-linkedin.svg" width="40" height="40"></a>
 <a href="https://www.sololearn.com/profile/12054699" target="_blank"><img src="./src/logo-sololearn.png" width="40" height="40"></a>
 <a href="https://hackerrank.com/ursmaheshj" target="_blank"><img src="./src/logo-hackerrank.png" width="40" height="40"></a>
 <a href="https://replit.com/@ursmaheshj" target="_blank"><img src="./src/logo-replit.svg" width="35" height="35"></a>
 <a href="https://kaggle.com/ursmaheshj" target="_blank"><img src="./src/logo-kaggle.svg" width="40" height="40"></a>
+<a href="https://www.leetcode.com/ursmaheshj" target="_blank"><img src="./src/logo-leetcode.png" width="40" height="40"></a>
 </p>
 
 
@@ -67,5 +68,4 @@
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ursmaheshj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&" alt="ursmaheshj" /></p>
 
-
-  
+<hr align="center" >
