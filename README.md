@@ -65,7 +65,7 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ursmaheshj&show_icons=true&locale=en&layout=compact" alt="ursmaheshj" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ursmaheshj&show_icons=true&locale=en&layout=compact" alt="ursmaheshj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ursmaheshj&show_icons=true&locale=en" alt="ursmaheshj" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ursmaheshj&show_icons=true&locale=en" alt="ursmaheshj" /></p>
 
