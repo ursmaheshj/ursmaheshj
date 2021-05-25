@@ -16,7 +16,7 @@
 
 **<h3 align="center">----- Connect with me -----</h3>**
 <p align="center">
-<a href="https://www.instagram.com/ursmaheshj" target="_blank"><img src="./src/logo-instagram.svg" width="40" height="40"></a> &nbsp; 
+<a href="https://www.instagram.com/ursmaheshj" target="_blank"><img src="./src/logo-instagram.svg" width="40" height="40"></a> &nbsp;&nbsp; 
 <a href="https://linkedin.com/in/ursmaheshj" target="_blank"><img src="./src/logo-linkedin.svg" width="40" height="40"></a> &nbsp;
 <a href="https://www.sololearn.com/profile/12054699" target="_blank"><img src="./src/logo-sololearn.png" width="40" height="40"></a> &nbsp; 
 <a href="https://hackerrank.com/ursmaheshj" target="_blank"><img src="./src/logo-hackerrank.png" width="40" height="40"></a> &nbsp; 
