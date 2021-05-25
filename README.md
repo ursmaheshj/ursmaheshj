@@ -1,5 +1,4 @@
-<html>
-<script src="https://unpkg.com/ionicons@5.5.1/dist/ionicons.js"></script>
+
 <!-- <img src="./Simple Technology LinkedIn Banner.gif"  width=1000px height=500px/> -->
 
 
@@ -48,8 +47,8 @@
 </p>
   
   
-<h3 align="left">Frameworks and Databases : </h3>
-<p align="left">
+<h3 align="center">Frameworks and Databases : </h3>
+<p align="center">
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
