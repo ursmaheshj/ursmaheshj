@@ -29,10 +29,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/ursmaheshj" target="_blank"><ion-icon name="logo-instagram"></ion-icon></a>
+<a href="https://instagram.com/ursmaheshj" target="_blank"><img src="https://github.com/ionic-team/ionicons/blob/master/src/svg/logo-instagram.svg" width="40" height="40"></a>
 </p>
   
-<span style="background-color:white">
 <h3 align="left">Languages : </h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
