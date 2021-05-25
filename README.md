@@ -1,4 +1,4 @@
-![Header](./Simple Technology LinkedIn Banner.gif)
+<img src="./Simple Technology LinkedIn Banner.gif"  width=1000px height=500px/>
 
 - 🔭 I’m currently working on ... ghhh
 - 🌱 I’m currently learning ...
