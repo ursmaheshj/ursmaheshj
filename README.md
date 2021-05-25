@@ -1,24 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Page Title</title>
-    <style>
-      /* The . with the boxed represents that it is a class */
-      .boxed {
-        background: lightgrey;
-        color: black;
-        border: 3px solid black;
-        margin: 0px auto;
-        width: 456px;
-        padding: 10px;
-        border-radius: 10px;
-      }
-    </style>
-  </head>
-  </body>
-  
 <!-- <img src="./Simple Technology LinkedIn Banner.gif"  width=1000px height=500px/> -->
 
 
@@ -51,9 +30,9 @@
 <p align="left">
 <a href="https://instagram.com/ursmaheshj" target="_blank"><img src="https://github.com/ionic-team/ionicons/blob/master/src/svg/logo-instagram.svg" width="40" height="40"></a>
 </p>
+
 <h1></h1>
 
-<div class="boxed">
 <h3 align="left">Languages : </h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -64,7 +43,6 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>    
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>    
-
 </p>
   
   
@@ -86,11 +64,10 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
-</div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ursmaheshj&show_icons=true&locale=en&layout=compact" alt="ursmaheshj" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ursmaheshj&show_icons=true&locale=en" alt="ursmaheshj" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ursmaheshj&show_icons=true&locale=en&layout=compact" alt="ursmaheshj" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ursmaheshj&show_icons=true&locale=en" alt="ursmaheshj" /></p>
 
 
-  </body>
-</html>
+  
