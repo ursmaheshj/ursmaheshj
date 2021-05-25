@@ -1,10 +1,9 @@
 <img src="./src/Simple Technology LinkedIn Banner.gif"  width=1000px height=500px/>
 
-<h2 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mahesh</h2>
-<hr width="500px">
+**<h2 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mahesh</h2>**
 <h3 align="center">A passionate developer from India</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ursmaheshj&label=Profile%20views&color=0e75b6&style=flat" alt="ursmaheshj" /> </p>
+<hr align="center" width="500px">
 
 - 🌱 I’m currently learning **TensorFlow,ScikitLearn**
 
