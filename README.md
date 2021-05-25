@@ -3,7 +3,8 @@
 **<h2 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mahesh</h2>**
 <h3 align="center">A passionate developer from India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ursmaheshj&label=Profile%20views&color=0e75b6&style=flat" alt="ursmaheshj" /> </p>
-<hr align="center" width="500px">
+
+<hr align="center">
 
 - 🌱 I’m currently learning **TensorFlow,ScikitLearn**
 
@@ -13,7 +14,7 @@
 
 - ⚡ Fun fact **funny**
 
-<h1></h1>
+<hr align="center" >
 
 **<h3 align="center">----- Connect with me -----</h3>**
 <p align="center">
@@ -61,7 +62,7 @@
 
 <hr align="center" >
 
-**<h3 align="center" style="text-decoration:underline">Github Stat's</h3>**
+**<h3 align="center">Github Stat's</h3>**
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ursmaheshj&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="ursmaheshj" />
 </p>
