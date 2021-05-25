@@ -1,8 +1,7 @@
 <!-- <img src="./Simple Technology LinkedIn Banner.gif"  width=1000px height=500px/> -->
 
 
-<!-- ## Hi, Mahesh here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ursmaheshj&label=Profile%20views&color=0e75b6&style=flat" alt="ursmaheshj" /> </p>
 - 🔭 I’m currently working on ... ghhh
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...hgfhd
@@ -10,12 +9,12 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... 
 
-<h1 align="center">Hi 👋, I'm Mahesh</h1>
+<h1 align="center" style="display:">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mahesh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ursmaheshj&label=Profile%20views&color=0e75b6&style=flat" alt="ursmaheshj" /> </p>
+
 
 - 🌱 I’m currently learning **TensorFlow,ScikitLearn**
 
@@ -66,9 +65,9 @@
 <h1></h1>
 <h3 align="center">Github Stat's</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ursmaheshj&show_icons=true&locale=en&layout=compact" alt="ursmaheshj" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ursmaheshj&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="ursmaheshj" />
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ursmaheshj&show_icons=true&locale=en" alt="ursmaheshj" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ursmaheshj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&" alt="ursmaheshj" /></p>
 
 
   
