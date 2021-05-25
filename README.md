@@ -18,12 +18,11 @@
 
 **<h3 align="center">----- Connect with me -----</h3>**
 <p align="center">
-<a href="https://instagram.com/ursmaheshj" target="_blank"><img src="./src/logo-instagram.svg" width="40" height="40"></a>
-<a href="https://linkedin.com/ursmaheshj" target="_blank"><img src="./src/logo-linkedin.svg" width="40" height="40"></a>
-<a href="https://discord.com/ursmaheshj" target="_blank"><img src="./src/logo-discord.svg" width="40" height="40"></a>
-<a href="https://sololearn.com/ursmaheshj" target="_blank"><img src="./src/logo-sololearn.png" width="40" height="40"></a>
+<a href="https://www.instagram.com/ursmaheshj" target="_blank"><img src="./src/logo-instagram.svg" width="40" height="40"></a>
+<a href="https://www.linkedin.com/in/ursmaheshj" target="_blank"><img src="./src/logo-linkedin.svg" width="40" height="40"></a>
+<a href="https://www.sololearn.com/profile/12054699" target="_blank"><img src="./src/logo-sololearn.png" width="40" height="40"></a>
 <a href="https://hackerrank.com/ursmaheshj" target="_blank"><img src="./src/logo-hackerrank.png" width="40" height="40"></a>
-<a href="https://replit.com/ursmaheshj" target="_blank"><img src="./src/logo-replit.svg" width="35" height="35"></a>
+<a href="https://replit.com/@ursmaheshj" target="_blank"><img src="./src/logo-replit.svg" width="35" height="35"></a>
 <a href="https://kaggle.com/ursmaheshj" target="_blank"><img src="./src/logo-kaggle.svg" width="40" height="40"></a>
 </p>
 
