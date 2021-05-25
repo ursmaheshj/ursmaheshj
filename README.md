@@ -1,4 +1,4 @@
-<!-- <img src="./Simple Technology LinkedIn Banner.gif"  width=1000px height=500px/> -->
+<img src="./Simple Technology LinkedIn Banner.gif"  width=1000px height=500px/>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ursmaheshj&label=Profile%20views&color=0e75b6&style=flat" alt="ursmaheshj" /> </p>
@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 
-<h1 align="center" style="display:">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mahesh</h1>
+<h2 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mahesh</h2><hr width="500px">
 <h3 align="center">A passionate developer from India</h3>
 
 
@@ -26,12 +26,12 @@
 
 <h1></h1>
 
-<h3 align="center">Connect with me:</h3>
+**<h3 align="center">----- Connect with me -----</h3>**
 <p align="center">
 <a href="https://instagram.com/ursmaheshj" target="_blank"><img src="https://github.com/ionic-team/ionicons/blob/master/src/svg/logo-instagram.svg" width="40" height="40"></a>
 </p>
 
-<h3 align="center">Languages</h3>
+**<h3 align="center">----- Languages -----</h3>**
 <p align="center"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -44,7 +44,7 @@
 </p>
   
   
-<h3 align="center">Frameworks & Tools</h3>
+**<h3 align="center">----- Frameworks & Tools -----</h3>**
 <p align="center">
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
