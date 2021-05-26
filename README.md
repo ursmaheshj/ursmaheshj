@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on : **Python Development**
 - 🤔 I’m looking for help with : **API Creation**
 - ⚡ Fun fact :  **Common sense is not so common**
-<h3 align="center"><a href="https://github.com/ursmaheshj/Course-Completion-Certificates"><b>🏆 My achievements and Certificates 🥇</b></a> 
+<h3 align="center"><a href="https://ursmaheshj.github.io/Course-Completion-Certificates/"><b>🏆 My achievements and Certificates 🥇</b></a> 
 </h3>
 <hr align="center" >
 
