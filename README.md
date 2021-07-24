@@ -5,7 +5,7 @@
 </p>
 <hr align="center">
 
-- 🔭 I’m currently working on :  **GUI and Automation using python**
+- 🔭 I’m currently working on :  **Flutter App Development**
 - 🌱 I’m currently learning : **PySpark, BigData**
 - 👯 I’m looking to collaborate on : **Python Development**
 - 🤔 I’m looking for help with : **API Creation**
