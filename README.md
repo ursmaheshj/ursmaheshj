@@ -5,11 +5,11 @@
 </p>
 <hr align="center">
 
-- 🔭 I’m currently working on :  **Flutter App Development**
+- 🔭 I’m currently working on : <a href="https://github.com/ursmaheshj/Student_Management"> **Django Website Development** </a>
 - 🌱 I’m currently learning : **Data Science**
 - 👯 I’m looking to collaborate on : **Python Development**
 - 🤔 I’m looking for help with : **API Creation**
-- ⚡ Fun fact :  **Common sense is not so common**
+
 <h3 align="center">🏆<a href="https://ursmaheshj.github.io/Course-Completion-Certificates/" target="_blank"><b> My achievements and Certificates </b></a> 🥇
 </h3>
 <hr align="center" >
