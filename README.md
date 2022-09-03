@@ -5,7 +5,7 @@
 </p>
 <hr align="center">
 
-- 🔭 I’m currently working on : <a href="https://github.com/ursmaheshj/Student_Management"> **Django Website Development** </a>
+- 🔭 I’m currently working on : **Django Website Development** 
 - 🌱 I’m currently learning : **Data Science**
 - 👯 I’m looking to collaborate on : **Python Development**
 - 🤔 I’m looking for help with : **API Creation**
@@ -20,9 +20,9 @@
 <a href="https://linkedin.com/in/ursmaheshj" target="_blank"><img src="./src/logo-linkedin.svg" width="40" height="40"></a> &nbsp;
 <a href="https://www.sololearn.com/profile/12054699" target="_blank"><img src="./src/logo-sololearn.png" width="40" height="40"></a> &nbsp; 
 <a href="https://hackerrank.com/ursmaheshj" target="_blank"><img src="./src/logo-hackerrank.png" width="40" height="40"></a> &nbsp; 
-<a href="https://replit.com/@ursmaheshj" target="_blank"><img src="./src/logo-replit.svg" width="35" height="35"></a> &nbsp; 
-<a href="https://kaggle.com/ursmaheshj" target="_blank"><img src="./src/logo-kaggle.svg" width="40" height="40"></a>
-<a href="https://www.leetcode.com/ursmaheshj" target="_blank"><img src="./src/logo-leetcode.png" width="40" height="40"></a>
+<!-- <a href="https://replit.com/@ursmaheshj" target="_blank"><img src="./src/logo-replit.svg" width="35" height="35"></a> &nbsp; --> 
+<!-- <a href="https://kaggle.com/ursmaheshj" target="_blank"><img src="./src/logo-kaggle.svg" width="40" height="40"></a> -->
+<!-- <a href="https://www.leetcode.com/ursmaheshj" target="_blank"><img src="./src/logo-leetcode.png" width="40" height="40"></a> -->
 </p>
 
 
