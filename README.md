@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on : **Django Website Development** 
 - 🌱 I’m currently learning : **Data Science**
 - 👯 I’m looking to collaborate on : **Python Development**
-- 🤔 I’m looking for help with : **API Creation**
+<!-- - 🤔 I’m looking for help with : **API Creation** -->
 
 <h3 align="center">🏆<a href="https://ursmaheshj.github.io/Course-Completion-Certificates/" target="_blank"><b> My achievements and Certificates </b></a> 🥇
 </h3>
